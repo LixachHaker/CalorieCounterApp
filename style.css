@@ -1,0 +1,20 @@
+.container{
+    text-align: center;
+    font-size: 20px;
+}
+#textName{
+    width: 150px;
+    height: 25px;
+}
+
+.paragraph-styling{
+    margin: 0;
+    cursor: pointer;
+    font-size: 20px;
+}
+#h1{
+    text-align: center;
+    border: solid;
+    background-color: blue;
+    text-emphasis-color: red
+}
